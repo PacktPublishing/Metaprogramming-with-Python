@@ -1,9 +1,9 @@
 class Product:
-    _productID = 100902
-    _productName = 'Iphone X'
-    _productCategory = 'Electronics'
-    _unitPrice = 700
+    _product_id = 100902
+    _product_name = 'Iphone X'
+    _product_category = 'Electronics'
+    _unit_price = 700
     
-    def getProduct(self):
-        return self._productID, self._productName, self._productCategory, self._unitPrice
+    def get_product(self):
+        return self._product_id, self._product_name, self._product_category, self._unit_price
 
