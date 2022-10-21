@@ -55,3 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Sulekha AloorRavi**
  is an engineer and a data scientist with a wide technical breadth and deep understanding of many technologies and systems. Her background has led her to advanced Python based application development in the field of artificial intelligence. She enjoys solving real-world business problems with technology and working with data science and business intelligence teams to deliver real value.
 She has 15+ years of experience in Software Engineering and worked with major IT solution providers and International Banks. She graduated with an engineering degree in Information Technology and later completed a post-graduation program in Big Data and Machine Learning. She also enjoys teaching Artificial Intelligence and Machine Learning.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838554651">https://packt.link/free-ebook/9781838554651 </a> </p>
